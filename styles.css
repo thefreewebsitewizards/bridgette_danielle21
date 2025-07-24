@@ -1710,6 +1710,8 @@ section {
         padding: 10px 20px;
         font-size: 0.95rem;
         gap: 8px;
+        display: block;
+        margin: 0 auto;
     }
     
     .social-handle {
